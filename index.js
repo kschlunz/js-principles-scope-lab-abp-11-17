@@ -21,4 +21,8 @@ function overwriteBestCustomer(){
   bestCustomer='maybe bob';
 }
 
+var leastFavoriteCustomer = "what"
 
+function changeLeastFavoriteCustomer(){
+   leastFavoriteCustomer = "heck"
+}
