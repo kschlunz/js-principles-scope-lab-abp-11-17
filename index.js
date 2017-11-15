@@ -6,3 +6,6 @@ var customerName = 'bob';
 function upperCaseCustomerName(){
   return customerName="BOB"
 }
+
+
+var setBestCustomer = 'not bob';
