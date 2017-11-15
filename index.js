@@ -1,6 +1,6 @@
 // Write your solution in this file!
 
-var leastFavoriteCustomer = "what"
+const leastFavoriteCustomer = "what"
 var customerName = 'bob';
 
 function upperCaseCustomerName(){
